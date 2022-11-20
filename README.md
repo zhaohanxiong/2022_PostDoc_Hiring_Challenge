@@ -15,3 +15,4 @@
 
 ### Submission
 - Please complete the jupyter notebook "coding_task.ipynb"
+- Include additional files as a .zip including the jupyter notebook
