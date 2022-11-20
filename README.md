@@ -6,5 +6,5 @@
 ### coding_task.ipynb
 - This file contains the code
 
-### example.png
-- This demonstrates the data
+### Data Analysis Demonstration:
+![image](https://user-images.githubusercontent.com/29684281/202913406-fa14c937-176d-482e-804e-a2efb5184218.png)
