@@ -14,5 +14,4 @@
 ![image](https://user-images.githubusercontent.com/29684281/202913406-fa14c937-176d-482e-804e-a2efb5184218.png)
 
 ### Submission
-- Please complete the jupyter notebook "coding_task.ipynb"
-- Include additional files as a .zip including the jupyter notebook
+- Refer to the Jupyter Notebook
