@@ -5,7 +5,7 @@
 
 ### File: coding_task.ipynb
 - This file contains the code for the challenge
-- There are 3 tasks + 1 optional task
+- There are 3 tasks
 
 ### Data Analysis Demonstration:
 - A mock graph is provided in the image below with given edge weights
