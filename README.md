@@ -15,3 +15,4 @@
 
 ### Submission
 - Please send a .zip file of all your outputs (attachments + Jupyter Notebook) to CVM personnel (cvm_personnel@cardiov.ox.ac.uk)
+- Please return your results by the end of the week (11th of December 11:59PM UK Time)
