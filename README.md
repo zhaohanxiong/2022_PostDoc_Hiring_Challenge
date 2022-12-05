@@ -14,4 +14,4 @@
 ![image](https://user-images.githubusercontent.com/29684281/202913406-fa14c937-176d-482e-804e-a2efb5184218.png)
 
 ### Submission
-- Refer to the Jupyter Notebook
+- Please send a .zip file of all your outputs (attachments + Jupyter Notebook) to CVM personnel (cvm_personnel@cardiov.ox.ac.uk)
